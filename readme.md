@@ -5,3 +5,5 @@
 base64 encoding and decoding gui tool, made in python because tkinter is cool
 
 clone and run "python3 app.py" to use it
+
+thats enough fam 🔥
